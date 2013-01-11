@@ -1,0 +1,14 @@
+{
+	"name": "SimpleSeer Admin",
+	"description": "A hook into the backend of SimpleSeer.",
+	"version": "0.1",
+
+	"icons": {
+		 "16": "./static/img/favicon.ico",
+		"128": "./static/img/Application.png"
+	}
+
+	"app": {
+		"launch": {"local_path": "build/app/index.html"}
+	}
+}
