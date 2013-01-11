@@ -4,9 +4,9 @@
 	"version": "0.1",
 
 	"icons": {
-		 "16": "./static/img/favicon.ico",
-		"128": "./static/img/Application.png"
-	}
+		 "16": "./build/static/img/favicon.ico",
+		"128": "./build/static/img/Application.png"
+	},
 
 	"app": {
 		"launch": {"local_path": "build/app/index.html"}
