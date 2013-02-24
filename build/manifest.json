@@ -1,0 +1,10 @@
+{
+  "name": "SeerAdmin",
+  "version": "0.11",
+  "description": "A SimpleSeer development tool tab with a shell terminal.",
+  "devtools_page": "bootstrap.html",
+  "icons": {"128": "./static/img/application.png"},
+  "minimum_chrome_version": "18",
+  "permissions": ["tabs"],
+  "manifest_version": 2
+}
